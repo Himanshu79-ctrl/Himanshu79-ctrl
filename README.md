@@ -20,15 +20,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu79-ctrl&show_icons=true&locale=en" alt="himanshu79-ctrl" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu79-ctrl&" alt="himanshu79-ctrl" /></p>
-GSSOC(24) BADGES
-# Badge Links
+<div>
+  <summary><b>GSSOC(24) Badges</b></summary><br>
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
+</div>
 
-Badge: <img src="https://github.com/girlscript/gssoc-website-new/tree/main/public/badges">
-
-Each badge link looks like `<img src="url" width="" height="" />`
-
-To customize them, simply copy one from the links below. And adjust the values in `width` and `height` as per your choice. And, make sure to use `px` or `rem`.
-
-## How do I get all in a single line...?
-To increase spacing between, each images update `gap: 10px` to a higher value such as `gap: 20px`.
-To have all of them center aligned, use this
