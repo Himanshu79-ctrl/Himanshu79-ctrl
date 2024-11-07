@@ -23,7 +23,7 @@
 GSSOC(24) BADGES
 # Badge Links
 
-Badge: https://github.com/girlscript/gssoc-website-new/tree/main/public/badges
+Badge: <img src="https://github.com/girlscript/gssoc-website-new/tree/main/public/badges">
 
 Each badge link looks like `<img src="url" width="" height="" />`
 
