@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu79-ctrl&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu79-ctrl" /> </p>
 
-- 🔭 I’m currently working on **RecsNotes**
+
 
 - 🌱 I’m currently learning **Java, DSA and Web Development**
 
