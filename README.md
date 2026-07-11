@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A passionate Java and Web developer</h3>
+<h3 align="center">A passionate Full Stack Python Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, DSA and Web Development**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📫 How to reach me **709himanshu@gmail.com**
 
