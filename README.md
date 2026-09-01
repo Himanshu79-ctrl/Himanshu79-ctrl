@@ -24,7 +24,6 @@ I'm a **Full Stack AI Engineer** passionate about building intelligent, scalable
 * 🧠 Working with **Generative AI, NLP, LangChain & LangGraph**
 * ⚙️ Building backend systems with **Python, Django & Django REST Framework**
 * ⚛️ Building modern interfaces with **React.js**
-* 🔥 Experienced with **MERN Stack**
 * 💡 Interested in **LLM-powered applications, RAG, AI Agents & intelligent automation**
 * 🏆 Participated in **national-level hackathons**
 * 💻 Solving problems on **LeetCode**
@@ -52,8 +51,7 @@ Artificial Intelligence
         └── Full Stack Engineering
               ├── Django / DRF
               ├── React
-              ├── Node.js / Express
-              └── PostgreSQL / MongoDB
+              └── PostgreSQL 
 ```
 
 ---
@@ -69,7 +67,7 @@ Artificial Intelligence
 ### 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
 ### ⚙️ Backend
@@ -89,13 +87,13 @@ Artificial Intelligence
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
 ---
@@ -138,24 +136,7 @@ An AI-powered civic issue reporting and redressal ecosystem that helps citizens 
 * 🎮 Citizen engagement & gamification
 
 **Tech:**
-`React` `Node.js` `Express` `MongoDB` `AI` `NLP` `Maps`
-
----
-
-### 🤝 NGOConnect
-
-A platform connecting NGOs and users through a centralized web ecosystem.
-
-**Features**
-
-* 👤 User authentication
-* 🏢 NGO management
-* 💳 Razorpay payment integration
-* 📊 Dashboard
-* 🔐 Secure REST APIs
-
-**Tech:**
-`React` `Node.js` `Express` `MongoDB` `Razorpay`
+`React` `Django` `PostgreSql` `AI` `NLP` `Maps`
 
 ---
 
