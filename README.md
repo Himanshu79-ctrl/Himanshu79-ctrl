@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 
 <h3 align="center">
-  Full Stack AI Engineer • GenAI • Agentic AI • Django • React
+  Full Stack AI Engineer | GenAI | Agentic AI | Django | React
 </h3>
 
 <p align="center">
@@ -18,47 +18,46 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack AI Engineer** passionate about building intelligent, scalable and production-ready applications.
+I'm a **Full Stack AI Engineer** passionate about building intelligent applications by combining modern web technologies with Generative AI and Agentic AI.
 
-* 🤖 Currently exploring **Agentic AI & AI Agents**
-* 🧠 Working with **Generative AI, NLP, LangChain & LangGraph**
-* ⚙️ Building backend systems with **Python, Django & Django REST Framework**
-* ⚛️ Building modern interfaces with **React.js**
-* 💡 Interested in **LLM-powered applications, RAG, AI Agents & intelligent automation**
-* 🏆 Participated in **national-level hackathons**
-* 💻 Solving problems on **LeetCode**
-* 🚀 Always learning, building and experimenting with new AI technologies
+* 🤖 Currently learning and building with **Agentic AI**
+* 🧠 Exploring **Generative AI, LLMs, NLP & AI Agents**
+* 🔗 Working with **LangChain & LangGraph**
+* ⚙️ Building backend systems using **Python, Django & Django REST Framework**
+* ⚛️ Building modern web interfaces using **React.js**
+* 🎨 Experienced with **HTML, CSS & Tailwind CSS**
+* 🗄️ Working with **PostgreSQL**
+* 💻 Practicing **Data Structures & Algorithms**
+* 🏆 Participated in **National-Level Hackathons**
+* 🚀 Interested in building real-world AI-powered products
 
 ---
 
-## 🧠 Current Focus
+## 🧠 What I'm Currently Exploring
 
 ```text
-Artificial Intelligence
-        │
-        ├── Generative AI
-        │     ├── LLM Applications
-        │     ├── Prompt Engineering
-        │     ├── RAG
-        │     └── AI-powered Automation
-        │
-        ├── Agentic AI
-        │     ├── AI Agents
-        │     ├── LangChain
-        │     ├── LangGraph
-        │     └── Multi-Agent Systems
-        │
-        └── Full Stack Engineering
-              ├── Django / DRF
-              ├── React
-              └── PostgreSQL 
+Generative AI
+     │
+     ├── LLM Applications
+     ├── Prompt Engineering
+     ├── NLP
+     ├── RAG
+     │
+     ▼
+Agentic AI
+     │
+     ├── AI Agents
+     ├── Tool Calling
+     ├── LangChain
+     ├── LangGraph
+     └── AI Workflows
 ```
 
 ---
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
@@ -73,96 +72,34 @@ Artificial Intelligence
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=django" />
 </p>
 
-### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+### 🤖 AI & GenAI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge"/>
 </p>
 
-**GenAI • LLMs • NLP • RAG • AI Agents • Agentic AI • Prompt Engineering • LangChain • LangGraph**
-
-### 🗄️ Databases
+### 🗄️ Database
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 AI Interview Platform
-
-A real-time AI-powered interview platform designed to simulate technical interviews and evaluate candidates.
-
-**Features**
-
-* 🎤 AI-powered voice interviews
-* 🧠 AI-generated interview questions
-* 📄 Resume analysis
-* 💬 Real-time interview conversation
-* 📝 Interview transcript generation
-* 📊 AI-based candidate evaluation
-* 📈 Communication, technical, confidence & problem-solving analysis
-* ⚡ Real-time interview experience
-
-**Tech:**
-`Django` `DRF` `React` `PostgreSQL` `WebRTC` `WebSockets` `AI` `NLP`
-
----
-
-### 🏙️ Smart Civic Redressal Platform
-
-An AI-powered civic issue reporting and redressal ecosystem that helps citizens report problems and enables authorities to manage them efficiently.
-
-**Features**
-
-* 📍 Location-based issue reporting
-* 📸 Image-based complaint submission
-* 🤖 AI-powered issue processing
-* 🔎 Duplicate complaint detection
-* 🗺️ Interactive civic issue map
-* 📊 Hotspot & analytics dashboard
-* 🏢 Automatic department routing
-* 🎮 Citizen engagement & gamification
-
-**Tech:**
-`React` `Django` `PostgreSql` `AI` `NLP` `Maps`
-
----
-
-# 🧩 AI Engineering Interests
-
-I'm particularly interested in building systems where AI can **reason, use tools, maintain context and execute tasks** instead of simply generating text.
-
-```text
-LLMs
- ↓
-Prompt Engineering
- ↓
-RAG
- ↓
-Tool Calling
- ↓
-AI Agents
- ↓
-LangChain
- ↓
-LangGraph
- ↓
-Multi-Agent Systems
- ↓
-Autonomous AI Workflows
-```
 
 ---
 
@@ -193,9 +130,9 @@ Autonomous AI Workflows
 
 * 🏅 Participated in **3 National-Level Hackathons**
 * 🚀 Hackathon Finalist
-* 🤝 Open-source contributor
-* 🧠 Actively building projects around **AI & Agentic AI**
-* 💻 Consistently improving **DSA & problem-solving skills**
+* 🤝 Open Source Contributor
+* 🧠 Building projects around **Generative AI & Agentic AI**
+* 💻 Actively improving **DSA & Problem Solving**
 
 ---
 
@@ -204,38 +141,25 @@ Autonomous AI Workflows
 <p align="left">
 
 <a href="https://www.linkedin.com/in/himanshu-prajapati/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="https://leetcode.com/u/01_himanshu/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
 </a>
 
 <a href="mailto:709himanshu@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Let's Build Something Intelligent
-
-I'm always interested in:
-
-* 🤖 AI & Agentic AI projects
-* 🧠 GenAI / LLM applications
-* 🚀 Startup ideas
-* 🌐 Full Stack development
-* 🤝 Open-source collaboration
-* 🏆 Hackathons
+<h3 align="center">
+  🚀 Building Intelligent Systems with AI + Full Stack Technologies
+</h3>
 
 <p align="center">
-  <b>Build → Learn → Experiment → Repeat 🚀</b>
-</p>
-
----
-
-<p align="center">
-  <i>"The best way to predict the future is to build it."</i>
+  <i>Learn • Build • Experiment • Innovate</i>
 </p>
