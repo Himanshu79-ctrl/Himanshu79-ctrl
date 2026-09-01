@@ -18,46 +18,22 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack AI Engineer** passionate about building intelligent applications by combining modern web technologies with Generative AI and Agentic AI.
+I'm a **Full Stack AI Engineer** passionate about building intelligent and scalable applications by combining modern web technologies with Generative AI and Agentic AI.
 
-* 🤖 Currently learning and building with **Agentic AI**
-* 🧠 Exploring **Generative AI, LLMs, NLP & AI Agents**
-* 🔗 Working with **LangChain & LangGraph**
-* ⚙️ Building backend systems using **Python, Django & Django REST Framework**
-* ⚛️ Building modern web interfaces using **React.js**
-* 🎨 Experienced with **HTML, CSS & Tailwind CSS**
-* 🗄️ Working with **PostgreSQL**
-* 💻 Practicing **Data Structures & Algorithms**
+* 🤖 Building applications with **Generative AI & Agentic AI**
+* 🧠 Working with **LLMs, NLP, RAG & AI Agents**
+* 🔗 Building AI workflows using **LangChain & LangGraph**
+* ⚙️ Developing backend systems with **Python, Django & Django REST Framework**
+* ⚛️ Building modern web applications with **React.js**
+* 💻 Passionate about **problem solving and DSA**
 * 🏆 Participated in **National-Level Hackathons**
 * 🚀 Interested in building real-world AI-powered products
 
 ---
 
-## 🧠 What I'm Currently Exploring
-
-```text
-Generative AI
-     │
-     ├── LLM Applications
-     ├── Prompt Engineering
-     ├── NLP
-     ├── RAG
-     │
-     ▼
-Agentic AI
-     │
-     ├── AI Agents
-     ├── Tool Calling
-     ├── LangChain
-     ├── LangGraph
-     └── AI Workflows
-```
-
----
-
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
@@ -73,20 +49,18 @@ Agentic AI
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white" height="48"/>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-</p>
-
-### 🤖 AI & GenAI
+### 🤖 AI / GenAI
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge" />
 </p>
 
 ### 🗄️ Database
@@ -131,8 +105,8 @@ Agentic AI
 * 🏅 Participated in **3 National-Level Hackathons**
 * 🚀 Hackathon Finalist
 * 🤝 Open Source Contributor
-* 🧠 Building projects around **Generative AI & Agentic AI**
-* 💻 Actively improving **DSA & Problem Solving**
+* 🤖 Building projects around **Generative AI & Agentic AI**
+* 💻 Actively improving **DSA & Problem-Solving Skills**
 
 ---
 
